@@ -15,6 +15,8 @@ modified: '2026-05-05'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/warner-brothers-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/warnerbros
   - type: LinkedIn
