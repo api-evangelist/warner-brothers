@@ -23,7 +23,7 @@ tags:
 description: 'A major American film and entertainment studio producing movies, television shows, and interactive entertainment. Part of Warner Bros. Discovery operating across theatrical, streaming, and gaming platforms.'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
