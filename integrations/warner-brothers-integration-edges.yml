@@ -1,0 +1,53 @@
+edges:
+- partner_name: MovieLabs
+  partner: null
+  partner_match: register
+  type: register
+  channel: standard-directory
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://movielabs.com/about/
+  category: studio technology standards body
+  contract_reference:
+    register: MovieLabs member studios (movielabs.com/about)
+    standard: MovieLabs specifications
+    spec_file: null
+    role: movielabs-member-studio
+    registered_name: Warner Bros. Entertainment
+    register_id: https://movielabs.com/about/
+    matched_domain: warnerbros.com
+    matched_by: domain+verified
+    signal_note: 'participation only: a listing on the register, never counted'
+    detected_by: sweep-film-media-identifiers-eidr.py
+    detected: '2026-10-21'
+    identity_source: wikidata P856 (labelled provenance step; Kin 2026-10-15 decision 1)
+    identity: wikidata Q126399 'Warner Bros. Entertainment' P856 https://www.warnerbros.com/
+  detected_by: sweep-film-media-identifiers-eidr.py
+  first_seen: '2026-10-21'
+  partner_tier: member-studio
+generated: '2026-10-21'
+method: searched
+source:
+- https://www.eidr.org/eidr-participants
+- https://movielabs.com/about/
+- https://www.thedpp.com/members-directory
+- https://www.thedpp.com/security
+- https://web.isan.org/public/en/sign-up
+- https://www.eidr.org/members/
+- https://members.eidr.org/
+- https://www.ttpn.org/
+- https://plus.ttpn.org/
+- https://movielabs.com/about-industry-forum/
+- https://movielabs.com/2030showcase/
+checked:
+- https://members.eidr.org/
+- https://movielabs.com/2030showcase/
+- https://movielabs.com/about-industry-forum/
+- https://movielabs.com/about/
+- https://plus.ttpn.org/
+- https://web.isan.org/public/en/sign-up
+- https://www.eidr.org/eidr-participants
+- https://www.eidr.org/members/
+- https://www.thedpp.com/members-directory
+- https://www.thedpp.com/security
+- https://www.ttpn.org/
